@@ -1,7 +1,7 @@
 ![image](https://github.com/Rifqiakmals12/AI-Project-Classification-of-Mall-Visitors-Using-SVM-KNN-and-Naive-Bayes./assets/72428679/ef92f4f9-3f13-46cc-b11c-93471ddd7b17)
 
 
-# AI-Project-Classification-of-Mall-Visitors-Using-SVM-KNN-and-Naive-Bayes.
+# AI-Project-Classification-of-Mall-Visitors-Using-SVM-KNN-and-Naive-Bayes
 
 ## Penjelasan :
 
